@@ -1,24 +1,14 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=34&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+YOUR_NAME;Senior+Software+Engineer;Full+Stack+Developer+%7C+Cloud+%7C+AI;Building+Scalable+Software;Open+Source+Contributor" alt="Typing SVG" />
-
 <div align="center">
 
-# 👨‍💻 YOUR_NAME
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:60A5FA&height=220&section=header&text=YOUR%20NAME&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
-### Senior Software Engineer • Full Stack Developer • Cloud Engineer • Open Source Enthusiast
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=34&duration=3500&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=Hi+👋;I'm+YOUR+NAME;Full+Stack+Developer;Open+Source+Enthusiast"/>
+</h1>
 
-Building scalable software, solving complex engineering challenges, and creating impactful products.
-
-<p align="center">
-<a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="YOUR_TWITTER"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue" />
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="320"/>
 
 </div>
-
 ---
 
 # 🚀 About Me
